@@ -1,5 +1,5 @@
 {
-    "name": "davidwesdijk/laravel-polymorphic-eav",
+    "name": "schouten-zekerheid/laravel-polymorphic-eav",
     "description": "Integrate the entity-attribute-value model with polymorphic Eloquent-relations in your Laravel application.",
     "keywords": [
         "laravel-polymorphic-eav",
@@ -18,11 +18,11 @@
     ],
     "require": {
         "php": "^7.1|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0"
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0",
-        "phpunit/phpunit": "^8.0|^9.0"
+        "phpunit/phpunit": "^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
